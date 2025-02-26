@@ -1,0 +1,8 @@
+[
+  "ipconfig",
+  "echo Merhaba Dünya",
+  "ver",
+  "time /t",
+  "whoami",
+  "hostname"
+]
